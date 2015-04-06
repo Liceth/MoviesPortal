@@ -180,11 +180,7 @@ require("includes/configuration.php");
 
 		<footer>
 		<div><p> Movies Portal © 2012 - Privacy Policy </p>
-		<p  class="twitter"></p> 
-		<p ><a href="#">@JorgMrtnz</a></p>
-		
-		<p ><a href="#">Jorge Martínez Gómez</a></p>
-		<p  class="facebook"></p> 
+	
 		
 		</div>
 		</footer>
