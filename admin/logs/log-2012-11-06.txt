@@ -1,0 +1,8 @@
+127.0.0.1 - 2012-11-06 15:09:27 - Se ha iniciado la sesión del usuario Administrador del Sistema 
+127.0.0.1 - 2012-11-06 16:15:33 - Se ha iniciado la sesión del usuario Administrador del Sistema 
+127.0.0.1 - 2012-11-06 16:17:41 - Se ha iniciado la sesión del usuario Administrador del Sistema 
+127.0.0.1 - 2012-11-06 16:44:53 - Se ha iniciado la sesión del usuario Administrador del Sistema 
+127.0.0.1 - 2012-11-06 21:01:05 - Se ha iniciado la sesión del usuario Administrador del Sistema 
+127.0.0.1 - 2012-11-06 21:12:04 - Se ha iniciado la sesión del usuario Administrador del Sistema 
+127.0.0.1 - 2012-11-06 21:12:44 - Se ha iniciado la sesión del usuario Administrador del Sistema 
+127.0.0.1 - 2012-11-06 22:07:22 - Se ha iniciado la sesión del usuario Administrador del Sistema 
